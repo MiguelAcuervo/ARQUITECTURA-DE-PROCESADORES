@@ -1,0 +1,75 @@
+$date
+	Fri Sep 05 22:15:02 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module suma_1bit_tb $end
+$var wire 1 ! So $end
+$var wire 1 " Co $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % Ci $end
+$scope module uut $end
+$var wire 1 # A $end
+$var wire 1 & AND_AB $end
+$var wire 1 ' AND_XOR_AB_Ci $end
+$var wire 1 $ B $end
+$var wire 1 % Ci $end
+$var wire 1 " Co $end
+$var wire 1 ! So $end
+$var wire 1 ( XOR_AB $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#20000
+1!
+1%
+#30000
+1(
+0%
+1$
+#40000
+1"
+0!
+1'
+1%
+#50000
+0"
+1!
+0'
+0%
+0$
+1#
+#60000
+1"
+0!
+1'
+1%
+#70000
+0'
+0(
+1&
+0%
+1$
+#80000
+1!
+1%
+#90000
